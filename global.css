@@ -54,6 +54,7 @@ img {
 }
 
 .product-info > small {
+    letter-spacing: 0.313rem;
     font-family: var(--Montserrat);
     color: var(--Dark-grayish-blue);
 }
