@@ -1,0 +1,40 @@
+@media screen and (max-width: 38.45em) {
+    .main {
+    grid-template-rows: 1fr;
+}
+
+.product-img {
+    border-radius: 10px 10px 0px 0px;
+    width: 343px;
+    height: 240px;
+  }
+
+  .card-wrapper {
+    height: 371px;
+    width: 343px;
+    border-radius: 0px 0px 10px 10px;
+  }
+
+  .product-info {
+    padding: 1.5rem 0rem;
+    max-width: 300px;
+}
+
+.product-info > h1 {
+    padding-top: 0.75rem;
+}
+
+.product-info > p {
+    padding-top: 1rem;
+}
+
+.price-wrapper {
+padding: 1.5rem 0rem 1.25rem 0rem;
+}
+
+.add-to-card {
+    width: 295px;
+}
+
+
+}
