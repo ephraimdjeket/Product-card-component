@@ -29,19 +29,6 @@
   </h5>
 </div>
 
-<br>
-<br>
-
-## Table of content:
-
-1. [About the project](#about-the-project)
-1. [Built with](#built-with)
-1. [Useful resources](#useful-resources)
-1. [Acknowledgments](#acknowledgments)
-1. [Follow me](#follow-me)
-   <br>
-   <br>
-
 ## About the project
 
 This is my <strong>3<sup>rd</sup></strong> Frontend Mentor challenge.
@@ -51,15 +38,6 @@ This is my solution for the product preview card component challenge on Frontend
 Your users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-
-## Built with
-
-For this project I used:
-
-- Semantic HTML5 Markup
-- CSS Custom Variables
-- CSS Grid
-- Mobile-First Workflow
 
 ## Useful resources
 
